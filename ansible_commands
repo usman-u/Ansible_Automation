@@ -1,0 +1,1 @@
+ansible-playbook ./apt.yml --user usman --ask-become-pass -i ../inventory/hosts
